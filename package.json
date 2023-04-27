@@ -1,0 +1,15 @@
+{
+  "name": "reservation-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync -s -w --no-ui --no-notify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.29.1"
+  }
+}
